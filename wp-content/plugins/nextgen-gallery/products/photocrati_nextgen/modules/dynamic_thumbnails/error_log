@@ -1,0 +1,23 @@
+[25-Nov-2014 00:39:12 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:39:12 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/adapter.dynamic_thumbnail_routes.php on line 4
+[25-Nov-2014 00:39:12 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:39:12 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/adapter.dynamic_thumbnail_routes.php:0
+[25-Nov-2014 00:39:16 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:39:16 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/adapter.dynamic_thumbnails_storage_driver.php on line 4
+[25-Nov-2014 00:39:16 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:39:16 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/adapter.dynamic_thumbnails_storage_driver.php:0
+[25-Nov-2014 00:39:22 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:39:22 Europe/London] PHP Fatal error:  Class 'C_MVC_Controller' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/class.dynamic_thumbnails_controller.php on line 4
+[25-Nov-2014 00:39:22 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:39:22 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/class.dynamic_thumbnails_controller.php:0
+[25-Nov-2014 00:39:31 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:39:50 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:39:50 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/class.dynamic_thumbnails_manager.php on line 4
+[25-Nov-2014 00:39:50 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:39:50 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/class.dynamic_thumbnails_manager.php:0
+[25-Nov-2014 00:39:58 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:40:05 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:40:13 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:40:13 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/module.dynamic_thumbnails.php on line 9
+[25-Nov-2014 00:40:13 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:40:13 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/dynamic_thumbnails/module.dynamic_thumbnails.php:0

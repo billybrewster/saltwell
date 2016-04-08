@@ -1,0 +1,1 @@
+[22-Jul-2015 07:42:14 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/saltwell/public_html/wp-content/themes/twentyfifteen/404.php on line 10

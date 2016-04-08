@@ -1,0 +1,8 @@
+[25-Nov-2014 02:51:48 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:51:48 Europe/London] PHP Fatal error:  Call to undefined function esc_html_e() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php on line 5
+[25-Nov-2014 02:51:48 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:51:48 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:0
+[25-Nov-2014 02:52:21 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:52:21 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php on line 5
+[25-Nov-2014 02:52:21 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:52:21 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php:0

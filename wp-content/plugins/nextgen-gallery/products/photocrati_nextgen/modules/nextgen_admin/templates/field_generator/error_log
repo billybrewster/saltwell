@@ -1,0 +1,32 @@
+[25-Nov-2014 03:20:27 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:20:28 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_color.php on line 1
+[25-Nov-2014 03:20:28 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:20:28 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_color.php:0
+[25-Nov-2014 03:20:34 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:20:34 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_number.php on line 1
+[25-Nov-2014 03:20:34 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:20:34 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_number.php:0
+[25-Nov-2014 03:20:40 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:20:41 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_radio.php on line 1
+[25-Nov-2014 03:20:41 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:20:41 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_radio.php:0
+[25-Nov-2014 03:20:48 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:20:48 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_select.php on line 1
+[25-Nov-2014 03:20:48 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:20:48 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_select.php:0
+[25-Nov-2014 03:20:56 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:20:56 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_text.php on line 1
+[25-Nov-2014 03:20:56 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:20:56 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_text.php:0
+[25-Nov-2014 03:21:01 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:21:01 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_textarea.php on line 1
+[25-Nov-2014 03:21:01 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:21:01 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_textarea.php:0
+[25-Nov-2014 03:21:19 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:21:19 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_width_and_unit.php on line 1
+[25-Nov-2014 03:21:19 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:21:19 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_width_and_unit.php:0
+[25-Nov-2014 03:21:51 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:21:51 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/thumbnail_settings.php on line 1
+[25-Nov-2014 03:21:51 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:21:51 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/thumbnail_settings.php:0

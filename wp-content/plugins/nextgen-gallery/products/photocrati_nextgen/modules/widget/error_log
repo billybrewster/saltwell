@@ -1,0 +1,21 @@
+[25-Nov-2014 02:24:40 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:24:40 Europe/London] PHP Fatal error:  Class 'C_MVC_Controller' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/class.widget.php on line 4
+[25-Nov-2014 02:24:40 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:24:40 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/class.widget.php:0
+[25-Nov-2014 02:24:46 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:24:46 Europe/London] PHP Fatal error:  Class 'WP_Widget' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/class.widget_gallery.php on line 4
+[25-Nov-2014 02:24:46 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:24:46 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/class.widget_gallery.php:0
+[25-Nov-2014 02:24:52 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:24:52 Europe/London] PHP Fatal error:  Class 'WP_Widget' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/class.widget_mediarss.php on line 4
+[25-Nov-2014 02:24:52 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:24:52 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/class.widget_mediarss.php:0
+[25-Nov-2014 02:24:59 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:24:59 Europe/London] PHP Fatal error:  Class 'WP_Widget' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/class.widget_slideshow.php on line 4
+[25-Nov-2014 02:24:59 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:24:59 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/class.widget_slideshow.php:0
+[25-Nov-2014 02:25:06 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:25:12 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:25:12 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/module.widget.php on line 8
+[25-Nov-2014 02:25:12 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:25:12 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/module.widget.php:0

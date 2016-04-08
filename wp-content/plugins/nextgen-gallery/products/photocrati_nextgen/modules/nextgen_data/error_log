@@ -1,0 +1,88 @@
+[25-Nov-2014 02:00:56 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:00:57 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/adapter.attachment_datamapper.php on line 8
+[25-Nov-2014 02:00:57 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:00:57 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/adapter.attachment_datamapper.php:0
+[25-Nov-2014 02:01:05 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:01:05 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/adapter.customtable_sorting_datamapper.php on line 7
+[25-Nov-2014 02:01:05 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:01:05 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/adapter.customtable_sorting_datamapper.php:0
+[25-Nov-2014 02:01:13 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:01:13 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/adapter.nextgen_data_factory.php on line 4
+[25-Nov-2014 02:01:13 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:01:13 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/adapter.nextgen_data_factory.php:0
+[25-Nov-2014 02:01:20 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:01:20 Europe/London] PHP Fatal error:  Class 'C_DataMapper_Model' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.album.php on line 4
+[25-Nov-2014 02:01:20 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:01:20 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.album.php:0
+[25-Nov-2014 02:01:31 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:01:31 Europe/London] PHP Fatal error:  Class 'C_CustomTable_DataMapper_Driver' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.album_mapper.php on line 4
+[25-Nov-2014 02:01:31 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:01:31 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.album_mapper.php:0
+[25-Nov-2014 02:01:54 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:01:54 Europe/London] PHP Fatal error:  Class 'C_DataMapper_Model' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallery.php on line 46
+[25-Nov-2014 02:01:54 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:01:54 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallery.php:0
+[25-Nov-2014 02:02:05 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:05 Europe/London] PHP Fatal error:  Class 'C_CustomTable_DataMapper_Driver' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallery_mapper.php on line 7
+[25-Nov-2014 02:02:05 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:02:05 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallery_mapper.php:0
+[25-Nov-2014 02:02:11 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:12 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallery_storage.php on line 13
+[25-Nov-2014 02:02:12 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:02:12 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallery_storage.php:0
+[25-Nov-2014 02:02:18 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:18 Europe/London] PHP Fatal error:  Class 'C_Component' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallerystorage_base.php on line 4
+[25-Nov-2014 02:02:18 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:02:18 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallerystorage_base.php:0
+[25-Nov-2014 02:02:21 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:21 Europe/London] PHP Fatal error:  Class 'E_NggErrorException' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallerystorage_driver_base.php on line 4
+[25-Nov-2014 02:02:21 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:02:21 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.gallerystorage_driver_base.php:0
+[25-Nov-2014 02:02:25 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:25 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.image.php on line 5
+[25-Nov-2014 02:02:25 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:02:25 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.image.php:0
+[25-Nov-2014 02:02:29 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:29 Europe/London] PHP Fatal error:  Class 'C_CustomTable_DataMapper_Driver' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.image_mapper.php on line 4
+[25-Nov-2014 02:02:29 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:02:29 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.image_mapper.php:0
+[25-Nov-2014 02:02:32 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:36 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:45 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:46 Europe/London] PHP Fatal error:  Class 'C_NggLegacy_Installer' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.nextgen_data_installer.php on line 4
+[25-Nov-2014 02:02:46 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:02:46 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.nextgen_data_installer.php:0
+[25-Nov-2014 02:02:57 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:02:57 Europe/London] PHP Fatal error:  Class 'C_Component' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.nextgen_metadata.php on line 4
+[25-Nov-2014 02:02:57 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:02:57 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.nextgen_metadata.php:0
+[25-Nov-2014 02:03:05 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:03:05 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.ngglegacy_gallerystorage_driver.php on line 4
+[25-Nov-2014 02:03:05 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:03:05 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.ngglegacy_gallerystorage_driver.php:0
+[25-Nov-2014 02:03:15 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:03:22 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:03:22 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.wordpress_gallerystorage_driver.php on line 4
+[25-Nov-2014 02:03:22 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:03:22 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/class.wordpress_gallerystorage_driver.php:0
+[25-Nov-2014 02:03:35 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:03:45 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:03:57 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:16 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:22 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:29 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:35 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:35 Europe/London] PHP Fatal error:  Interface 'I_Component_Config' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/interface.gallery_type.php on line 4
+[25-Nov-2014 02:04:35 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:04:35 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/interface.gallery_type.php:0
+[25-Nov-2014 02:04:42 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:47 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:51 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:58 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:04:58 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/mixin.nextgen_table_extras.php on line 4
+[25-Nov-2014 02:04:58 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:04:58 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/mixin.nextgen_table_extras.php:0
+[25-Nov-2014 02:05:05 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:05:05 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/module.nextgen_data.php on line 11
+[25-Nov-2014 02:05:05 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:05:05 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data/module.nextgen_data.php:0

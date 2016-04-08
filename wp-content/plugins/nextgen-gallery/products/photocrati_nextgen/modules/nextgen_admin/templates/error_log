@@ -1,0 +1,21 @@
+[25-Nov-2014 02:53:45 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:53:45 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/accordion_tab.php on line 1
+[25-Nov-2014 02:53:45 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:53:45 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/accordion_tab.php:0
+[25-Nov-2014 02:53:51 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:53:51 Europe/London] PHP Fatal error:  Call to a member function get_errors() on a non-object in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/entity_errors.php on line 4
+[25-Nov-2014 02:53:51 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:53:51 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/entity_errors.php:0
+[25-Nov-2014 02:53:57 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:53:57 Europe/London] PHP Fatal error:  Call to undefined function echo_h() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/entity_saved.php on line 2
+[25-Nov-2014 02:53:57 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:53:57 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/entity_saved.php:0
+[25-Nov-2014 02:54:48 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:54:48 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/form.php on line 2
+[25-Nov-2014 02:54:48 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:54:48 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/form.php:0
+[25-Nov-2014 02:54:51 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:54:51 Europe/London] PHP Fatal error:  Call to undefined function echo_h() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/nextgen_admin_page.php on line 2
+[25-Nov-2014 02:54:51 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:54:51 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/templates/nextgen_admin_page.php:0
+[25-Nov-2014 02:54:56 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0

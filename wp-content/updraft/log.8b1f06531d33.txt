@@ -1,0 +1,871 @@
+0000.000 (0) Opened log file at time: Sun, 30 Aug 2015 09:30:52 +0000 on http://www.saltwellharriers.org.uk
+0000.014 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.4M | 21.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.151 (0) Free space on disk containing Updraft's temporary directory: 992368.9 Mb / Free disk space in account: 36176.1 Mb (9.6 % used)
+0000.206 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.246 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.270 (0) Requesting semaphore lock (fd)
+0000.316 (0) Set semaphore last lock (fd) time to 2015-08-30 09:30:53
+0000.317 (0) Semaphore lock (fd) complete
+0000.356 (0) Backup run: resumption=0, nonce=8b1f06531d33, begun at=1440927052 (1s ago), job type=backup
+0000.366 (0) Scheduling a resumption (1) after 600 seconds (1440927653) in case this run gets aborted
+0000.401 (0) Checking if we have a zip executable available
+0000.449 (0) Creation of backups of directories: beginning
+0000.474 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0000.578 (0) Free disk space in account: 36176.1 Mb (9.6 % used)
+0000.633 (0) Total entities for the zip file: 332 directories, 2130 files (0 skipped as non-modified), 27.1 Mb
+0000.662 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0000.686 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0000.718 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0000.736 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0000.748 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0000.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.7 Mb, 2130 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0001.023 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 600 files added (on-disk size: 3204.5 Kb)
+0001.055 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 700 files added (on-disk size: 3204.5 Kb)
+0001.077 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 800 files added (on-disk size: 3204.5 Kb)
+0001.098 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 900 files added (on-disk size: 3204.5 Kb)
+0001.131 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1000 files added (on-disk size: 3204.5 Kb)
+0001.151 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.2 Mb, 2130 files batched, 501 (1002) added so far); re-opening (prior size: 3204.5 Kb)
+0001.406 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1100 files added (on-disk size: 5849.4 Kb)
+0001.414 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1200 files added (on-disk size: 5849.4 Kb)
+0001.433 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1300 files added (on-disk size: 5849.4 Kb)
+0001.441 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1400 files added (on-disk size: 5849.4 Kb)
+0001.455 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1500 files added (on-disk size: 5849.4 Kb)
+0001.458 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.2 Mb, 2130 files batched, 501 (1503) added so far); re-opening (prior size: 5849.4 Kb)
+0001.637 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1600 files added (on-disk size: 6636.6 Kb)
+0001.666 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1700 files added (on-disk size: 6636.6 Kb)
+0001.705 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1800 files added (on-disk size: 6636.6 Kb)
+0001.737 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 1900 files added (on-disk size: 6636.6 Kb)
+0001.775 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 2000 files added (on-disk size: 6636.6 Kb)
+0001.791 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.8 Mb, 2130 files batched, 501 (2004) added so far); re-opening (prior size: 6636.6 Kb)
+0002.778 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip.tmp: 2100 files added (on-disk size: 11007.2 Kb)
+0003.019 (0) Created plugins zip (0) - 12016.5 Kb in 2.4 s (4940.7 Kb/s) (SHA1 checksum: 1825e5594b343d2ea8efb06b795ceb370c037fc1)
+0003.022 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0003.141 (0) Free disk space in account: 36176.1 Mb (9.6 % used)
+0003.158 (0) Total entities for the zip file: 61 directories, 628 files (0 skipped as non-modified), 15.1 Mb
+0003.174 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0003.178 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0003.201 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0003.218 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0003.244 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0003.259 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.5 Mb, 628 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0003.705 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip.tmp: 600 files added (on-disk size: 11258.2 Kb)
+0004.101 (0) Created themes zip (0) - 12320.5 Kb in 1 s (12943.5 Kb/s) (SHA1 checksum: 6f76b322df58b5c30fb3f5e518f9e7e34c6442ab)
+0004.120 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0004.122 (0) Looking for candidates to back up in: /home/saltwell/public_html/wp-content/uploads
+0004.123 (0) finding files: 2015: adding to list (1)
+0004.142 (0) finding files: 2014: adding to list (2)
+0004.160 (0) finding files: 2013: adding to list (3)
+0004.182 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0004.314 (0) Free disk space in account: 36176.1 Mb (9.6 % used)
+0004.356 (0) Total entities for the zip file: 23 directories, 552 files (0 skipped as non-modified), 38.9 Mb
+0004.379 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0004.403 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0004.418 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0004.446 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0004.448 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (25 Mb, 552 files batched, 412 (412) added so far); re-opening (prior size: 0 Kb)
+0005.259 (0) A useful amount of data was added after this amount of zip processing: 1.2 s (normalised: 1.2 s, rate: 20669.4 Kb/s)
+0005.266 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.23871994019, normalised_time=1.2385430959, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=126993078)
+0005.285 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip.tmp: 500 files added (on-disk size: 24539.9 Kb)
+0005.979 (0) Created uploads zip (0) - 38540 Kb in 1.6 s (23455.7 Kb/s) (SHA1 checksum: 4ac39cbbb8f5245da2539145507fb78193c0c0a8)
+0006.029 (0) Beginning backup of other directories found in the content directory (index: 0)
+0006.047 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0006.061 (0) Looking for candidates to back up in: /home/saltwell/public_html/wp-content
+0006.073 (0) finding files: themes: skipping: this is the themes directory
+0006.096 (0) finding files: ngg_styles: adding to list (1)
+0006.099 (0) finding files: index.php: adding to list (2)
+0006.100 (0) finding files: plugins: skipping: this is the plugins directory
+0006.101 (0) finding files: upgrade: skipping: excluded by options
+0006.102 (0) finding files: updraft: skipping: this is the updraft directory
+0006.103 (0) finding files: gallery: adding to list (3)
+0006.104 (0) finding files: uploads: skipping: this is the uploads directory
+0006.105 (0) finding files: error_log: adding to list (4)
+0006.210 (0) Free disk space in account: 36176.1 Mb (9.6 % used)
+0006.247 (0) Total entities for the zip file: 55 directories, 2105 files (0 skipped as non-modified), 447.8 Mb
+0006.262 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0006.275 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0006.297 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0006.319 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0006.332 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0006.351 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (88.8 Mb, 2105 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0009.184 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 600 files added (on-disk size: 90517.8 Kb)
+0009.200 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 700 files added (on-disk size: 90517.8 Kb)
+0009.223 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 800 files added (on-disk size: 90517.8 Kb)
+0009.252 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 900 files added (on-disk size: 90517.8 Kb)
+0009.270 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1000 files added (on-disk size: 90517.8 Kb)
+0009.291 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (84.7 Mb, 2105 files batched, 501 (1002) added so far); re-opening (prior size: 90517.8 Kb)
+0012.413 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1100 files added (on-disk size: 176541.7 Kb)
+0012.434 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1200 files added (on-disk size: 176541.7 Kb)
+0012.457 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1300 files added (on-disk size: 176541.7 Kb)
+0012.475 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1400 files added (on-disk size: 176541.7 Kb)
+0012.504 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1500 files added (on-disk size: 176541.7 Kb)
+0012.514 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (78 Mb, 2105 files batched, 501 (1503) added so far); re-opening (prior size: 176541.7 Kb)
+0015.585 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1600 files added (on-disk size: 256112 Kb)
+0015.596 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1700 files added (on-disk size: 256112 Kb)
+0015.612 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1800 files added (on-disk size: 256112 Kb)
+0015.625 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 121.1 Mb added on this batch (121.8 Mb, 2105 files batched, 392 (1895) added so far); re-opening (prior size: 256112 Kb)
+0020.502 (0) A useful amount of data was added after this amount of zip processing: 5.5 s (normalised: 5.5 s, rate: 22750.2 Kb/s)
+0020.523 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.48242998123, normalised_time=5.45124164206, max_time=-1, data points known=0, old_max_bytes=126993078, new_max_bytes=139777048)
+0020.546 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 1900 files added (on-disk size: 380201.3 Kb)
+0020.575 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 2000 files added (on-disk size: 380201.3 Kb)
+0020.605 (0) Zip: backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip.tmp: 2100 files added (on-disk size: 380201.3 Kb)
+0025.963 (0) Created others zip (0) - 456072.1 Kb in 19.8 s (23091.3 Kb/s) (SHA1 checksum: e0e960f46d2028e700441621bb3550bd28e7c624)
+0026.040 (0) Saving backup status to database (elements: 8)
+0026.064 (0) Beginning creation of database dump (WordPress DB)
+0026.088 (0) Testing: /usr/bin/mysqldump
+0026.103 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0026.178 (0) Table wp_options: Total expected rows (approximate): 564
+0026.217 (0) Table wp_options: Total rows added: 962 in 0.04 seconds
+0026.230 (0) Table wp_options: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_options.table.gz - 112.8 Kb)
+0026.252 (0) Table wp_users: Total expected rows (approximate): 3
+0026.256 (0) Table wp_users: Total rows added: 3 in 0.00 seconds
+0026.258 (0) Table wp_users: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_users.table.gz - 0.7 Kb)
+0026.291 (0) Table wp_usermeta: Total expected rows (approximate): 46
+0026.301 (0) Table wp_usermeta: Total rows added: 46 in 0.00 seconds
+0026.323 (0) Table wp_usermeta: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_usermeta.table.gz - 1.3 Kb)
+0026.387 (0) Table wp_commentmeta: Total expected rows (approximate): 1421
+0026.435 (0) Table wp_commentmeta: Total rows added: 1332 in 0.02 seconds
+0026.458 (0) Table wp_commentmeta: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_commentmeta.table.gz - 7.5 Kb)
+0026.522 (0) Table wp_comments: Total expected rows (approximate): 1843
+0026.651 (0) Table wp_comments: Total rows added: 1883 in 0.12 seconds
+0026.654 (0) Table wp_comments: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_comments.table.gz - 223.6 Kb)
+0026.706 (0) Table wp_links: Total expected rows (approximate): 0
+0026.716 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0026.734 (0) Table wp_links: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_links.table.gz - 0.4 Kb)
+0026.808 (0) Table wp_postmeta: Total expected rows (approximate): 2283
+0026.861 (0) Table wp_postmeta: Total rows added: 2102 in 0.04 seconds
+0026.871 (0) Table wp_postmeta: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_postmeta.table.gz - 26.2 Kb)
+0026.903 (0) Table wp_posts: Total expected rows (approximate): 1495
+0027.067 (0) Table wp_posts: Total rows added: 1479 in 0.16 seconds
+0027.070 (0) Table wp_posts: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_posts.table.gz - 247.5 Kb)
+0027.090 (0) Table wp_term_relationships: Total expected rows (approximate): 200
+0027.094 (0) Table wp_term_relationships: Total rows added: 200 in 0.00 seconds
+0027.096 (0) Table wp_term_relationships: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_term_relationships.table.gz - 0.9 Kb)
+0027.142 (0) Table wp_term_taxonomy: Total expected rows (approximate): 8
+0027.146 (0) Table wp_term_taxonomy: Total rows added: 8 in 0.00 seconds
+0027.170 (0) Table wp_term_taxonomy: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_term_taxonomy.table.gz - 0.5 Kb)
+0027.231 (0) Table wp_terms: Total expected rows (approximate): 8
+0027.235 (0) Table wp_terms: Total rows added: 8 in 0.00 seconds
+0027.260 (0) Table wp_terms: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_terms.table.gz - 0.5 Kb)
+0027.307 (0) Skipping table (lacks our prefix (wp_)): performance
+0027.314 (0) Skipping table (lacks our prefix (wp_)): runners
+0027.328 (0) Table wp_events: Total expected rows (approximate): 4
+0027.332 (0) Table wp_events: Total rows added: 4 in 0.00 seconds
+0027.335 (0) Table wp_events: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_events.table.gz - 0.4 Kb)
+0027.352 (0) Table wp_ngg_album: Total expected rows (approximate): 2
+0027.355 (0) Table wp_ngg_album: Total rows added: 2 in 0.00 seconds
+0027.357 (0) Table wp_ngg_album: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_ngg_album.table.gz - 0.5 Kb)
+0027.394 (0) Table wp_ngg_gallery: Total expected rows (approximate): 19
+0027.420 (0) Table wp_ngg_gallery: Total rows added: 19 in 0.00 seconds
+0027.444 (0) Table wp_ngg_gallery: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_ngg_gallery.table.gz - 0.8 Kb)
+0027.518 (0) Table wp_ngg_pictures: Total expected rows (approximate): 695
+0027.574 (0) Table wp_ngg_pictures: Total rows added: 695 in 0.03 seconds
+0027.592 (0) Table wp_ngg_pictures: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_ngg_pictures.table.gz - 52.3 Kb)
+0027.644 (0) Table wp_users_events: Total expected rows (approximate): 0
+0027.656 (0) Table wp_users_events: Total rows added: 0 in 0.00 seconds
+0027.658 (0) Table wp_users_events: finishing file (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_users_events.table.gz - 0.2 Kb)
+0027.801 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_options.table.gz (1/18): adding to final database dump
+0027.825 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_users.table.gz (2/18): adding to final database dump
+0027.826 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_usermeta.table.gz (3/18): adding to final database dump
+0027.828 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_commentmeta.table.gz (4/18): adding to final database dump
+0027.867 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_comments.table.gz (5/18): adding to final database dump
+0027.925 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_links.table.gz (6/18): adding to final database dump
+0027.935 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_postmeta.table.gz (7/18): adding to final database dump
+0027.968 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_posts.table.gz (8/18): adding to final database dump
+0028.072 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_term_relationships.table.gz (9/18): adding to final database dump
+0028.087 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_term_taxonomy.table.gz (10/18): adding to final database dump
+0028.109 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_terms.table.gz (11/18): adding to final database dump
+0028.135 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_events.table.gz (12/18): adding to final database dump
+0028.144 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_ngg_album.table.gz (13/18): adding to final database dump
+0028.146 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_ngg_gallery.table.gz (14/18): adding to final database dump
+0028.164 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_ngg_pictures.table.gz (15/18): adding to final database dump
+0028.176 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db-table-wp_users_events.table.gz (16/18): adding to final database dump
+0028.186 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: finished writing out complete database file (672 Kb)
+0028.203 (0) Total database tables backed up: 16 (backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz, size: 690816, checksum (SHA1): 72d5ac0d799dd74fed8d8461f19f014f8cfa20ee)
+0028.207 (0) Saving backup history
+0028.230 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0028.241 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0028.243 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0028.245 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+0028.247 (0) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+0028.272 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0028.311 (0) Cloud backup selection (1/1): googledrive (last)
+0028.314 (0) Beginning dispatch of backup to remote (googledrive)
+0028.348 (0) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+0028.520 (0) Google Drive: successfully obtained access token
+0028.536 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.554 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.579 (0) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.582 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.634 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.656 (0) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.686 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.719 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.721 (0) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.754 (0) An error condition has occurred for the first time during this job
+0028.795 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+0028.798 (0) Number of backup sets in history: 3
+0028.800 (0) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+0028.812 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.816 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.818 (0) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.820 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.822 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.823 (0) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.835 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.840 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.858 (0) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.911 (0) 1440927052: this backup set remains non-empty (1/1); will retain in history
+0028.923 (0) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+0028.947 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0028.974 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.003 (0) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.046 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.061 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.079 (0) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.106 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.123 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.145 (0) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.170 (0) 1440322235: this backup set remains non-empty (1/1); will retain in history
+0029.171 (0) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+0029.172 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.178 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.186 (0) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.187 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.188 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.189 (0) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.190 (0) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.202 (0) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.203 (0) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0029.205 (0) 1440322200: this backup set remains non-empty (1/0); will retain in history
+0029.229 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0029.270 (0) Resume backup (8b1f06531d33, 0): finish run
+0029.288 (0) Decremented the semaphore (fd) by 1
+0029.290 (0) Semaphore (fd) unlocked
+0029.303 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0029.322 (0) Rescheduling resumption 1: moving to 120 seconds from now (1440927202)
+0029.324 (0) The backup has not finished; a resumption is scheduled
+0175.904 (1) Opened log file at time: Sun, 30 Aug 2015 09:33:48 +0000 on http://www.saltwellharriers.org.uk
+0175.928 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.4M | 21.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0176.052 (1) Free space on disk containing Updraft's temporary directory: 991861.2 Mb / Free disk space in account: 36176.1 Mb (9.6 % used)
+0176.114 (1) Backup run: resumption=1, nonce=8b1f06531d33, begun at=1440927052 (177s ago), job type=backup, previous check-in=29.2s
+0176.140 (1) Scheduling a resumption (2) after 600 seconds (1440927829) in case this run gets aborted
+0176.168 (1) Checking if we have a zip executable available
+0176.170 (1) Creation of backups of directories: already finished
+0176.180 (1) Saving backup status to database (elements: 8)
+0176.196 (1) Database dump (WordPress DB): Creation was completed already
+0176.198 (1) Saving backup history
+0176.223 (1) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0176.239 (1) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0176.241 (1) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0176.243 (1) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+0176.244 (1) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+0176.267 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0176.283 (1) Cloud backup selection (1/1): googledrive (last)
+0176.311 (1) Beginning dispatch of backup to remote (googledrive)
+0176.338 (1) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+0176.409 (1) Google Drive: successfully obtained access token
+0176.420 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.436 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.467 (1) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.483 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.508 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.523 (1) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.540 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.560 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.580 (1) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.596 (1) An error condition has occurred for the first time during this job
+0176.619 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+0176.635 (1) Number of backup sets in history: 3
+0176.637 (1) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+0176.639 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.641 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.644 (1) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.675 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.678 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.680 (1) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.683 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.698 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.701 (1) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.742 (1) 1440927052: this backup set remains non-empty (1/1); will retain in history
+0176.744 (1) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+0176.759 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.772 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.789 (1) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.803 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.816 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.828 (1) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.830 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.852 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.876 (1) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.907 (1) 1440322235: this backup set remains non-empty (1/1); will retain in history
+0176.924 (1) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+0176.936 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.964 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.975 (1) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.987 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.992 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.994 (1) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0176.996 (1) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0177.010 (1) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0177.012 (1) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0177.026 (1) 1440322200: this backup set remains non-empty (1/0); will retain in history
+0177.028 (1) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0177.041 (1) Resume backup (8b1f06531d33, 1): finish run
+0177.053 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0177.064 (1) The backup has not finished; a resumption is scheduled
+0832.465 (2) Opened log file at time: Sun, 30 Aug 2015 09:44:45 +0000 on http://www.saltwellharriers.org.uk
+0832.467 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.4M | 21.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0832.607 (2) Free space on disk containing Updraft's temporary directory: 991860.5 Mb / Free disk space in account: 35668.6 Mb (10.8 % used)
+0832.635 (2) Backup run: resumption=2, nonce=8b1f06531d33, begun at=1440927052 (833s ago), job type=backup, previous check-in=1.1s
+0832.656 (2) Scheduling a resumption (3) after 600 seconds (1440928485) in case this run gets aborted
+0832.684 (2) Checking if we have a zip executable available
+0832.687 (2) Creation of backups of directories: already finished
+0832.709 (2) Saving backup status to database (elements: 8)
+0832.726 (2) Database dump (WordPress DB): Creation was completed already
+0832.728 (2) Saving backup history
+0832.760 (2) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0832.779 (2) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0832.781 (2) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0832.816 (2) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+0832.817 (2) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+0832.857 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0832.881 (2) Cloud backup selection (1/1): googledrive (last)
+0832.884 (2) Beginning dispatch of backup to remote (googledrive)
+0832.913 (2) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+0833.184 (2) Google Drive: successfully obtained access token
+0833.214 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.216 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.224 (2) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.245 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.267 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.269 (2) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.271 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.273 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.313 (2) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.315 (2) An error condition has occurred for the first time during this job
+0833.342 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+0833.364 (2) Number of backup sets in history: 3
+0833.372 (2) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+0833.388 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.391 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.420 (2) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.436 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.452 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.454 (2) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.476 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.488 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.490 (2) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.548 (2) 1440927052: this backup set remains non-empty (1/1); will retain in history
+0833.556 (2) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+0833.559 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.573 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.576 (2) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.586 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.588 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.590 (2) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.592 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.606 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.608 (2) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.622 (2) 1440322235: this backup set remains non-empty (1/1); will retain in history
+0833.624 (2) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+0833.626 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.628 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.647 (2) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.656 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.672 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.692 (2) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.712 (2) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.724 (2) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.727 (2) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+0833.768 (2) 1440322200: this backup set remains non-empty (1/0); will retain in history
+0833.770 (2) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0833.792 (2) Resume backup (8b1f06531d33, 2): finish run
+0833.808 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0833.832 (2) The backup has not finished; a resumption is scheduled
+1482.474 (3) Opened log file at time: Sun, 30 Aug 2015 09:55:35 +0000 on http://www.saltwellharriers.org.uk
+1482.476 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.4M | 21.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+1482.600 (3) Free space on disk containing Updraft's temporary directory: 991888.3 Mb / Free disk space in account: 35668.6 Mb (10.8 % used)
+1482.627 (3) Backup run: resumption=3, nonce=8b1f06531d33, begun at=1440927052 (1483s ago), job type=backup, previous check-in=1.3s
+1482.641 (3) Scheduling a resumption (4) after 600 seconds (1440929135) in case this run gets aborted
+1482.658 (3) Checking if we have a zip executable available
+1482.683 (3) Creation of backups of directories: already finished
+1482.696 (3) Saving backup status to database (elements: 8)
+1482.731 (3) Database dump (WordPress DB): Creation was completed already
+1482.749 (3) Saving backup history
+1482.813 (3) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1482.831 (3) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1482.865 (3) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1482.873 (3) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+1482.895 (3) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+1482.939 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+1482.953 (3) Cloud backup selection (1/1): googledrive (last)
+1482.958 (3) Beginning dispatch of backup to remote (googledrive)
+1482.977 (3) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+1483.154 (3) Google Drive: successfully obtained access token
+1483.173 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.175 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.206 (3) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.224 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.232 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.235 (3) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.261 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.263 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.291 (3) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.294 (3) An error condition has occurred for the first time during this job
+1483.340 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+1483.343 (3) Number of backup sets in history: 3
+1483.367 (3) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+1483.389 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.411 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.431 (3) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.449 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.467 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.489 (3) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.506 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.509 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.511 (3) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.558 (3) 1440927052: this backup set remains non-empty (1/1); will retain in history
+1483.560 (3) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+1483.562 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.564 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.598 (3) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.601 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.603 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.604 (3) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.606 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.608 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.621 (3) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.667 (3) 1440322235: this backup set remains non-empty (1/1); will retain in history
+1483.685 (3) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+1483.707 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.725 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.743 (3) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.761 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.779 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.797 (3) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.819 (3) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.837 (3) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.855 (3) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+1483.895 (3) 1440322200: this backup set remains non-empty (1/0); will retain in history
+1483.913 (3) Retain: saving new backup history (sets now: 3) and finishing retain operation
+1483.930 (3) Resume backup (8b1f06531d33, 3): finish run
+1483.940 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1483.956 (3) The backup has not finished; a resumption is scheduled
+2239.801 (4) Opened log file at time: Sun, 30 Aug 2015 10:08:12 +0000 on http://www.saltwellharriers.org.uk
+2239.808 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.4M | 21.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2239.930 (4) Free space on disk containing Updraft's temporary directory: 991887.9 Mb / Free disk space in account: 35668.6 Mb (10.8 % used)
+2239.960 (4) Backup run: resumption=4, nonce=8b1f06531d33, begun at=1440927052 (2240s ago), job type=backup, previous check-in=1.4s
+2239.979 (4) Scheduling a resumption (5) after 600 seconds (1440929892) in case this run gets aborted
+2239.994 (4) Checking if we have a zip executable available
+2240.024 (4) Creation of backups of directories: already finished
+2240.026 (4) Saving backup status to database (elements: 8)
+2240.047 (4) Database dump (WordPress DB): Creation was completed already
+2240.050 (4) Saving backup history
+2240.078 (4) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2240.081 (4) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2240.106 (4) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2240.126 (4) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+2240.128 (4) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+2240.143 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+2240.158 (4) Cloud backup selection (1/1): googledrive (last)
+2240.163 (4) Beginning dispatch of backup to remote (googledrive)
+2240.191 (4) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+2240.349 (4) Google Drive: successfully obtained access token
+2240.357 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.360 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.374 (4) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.396 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.398 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.421 (4) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.440 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.469 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.493 (4) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.508 (4) An error condition has occurred for the first time during this job
+2240.552 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+2240.563 (4) Number of backup sets in history: 3
+2240.566 (4) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+2240.569 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.570 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.601 (4) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.603 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.605 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.607 (4) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.609 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.610 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.633 (4) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.641 (4) 1440927052: this backup set remains non-empty (1/1); will retain in history
+2240.650 (4) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+2240.652 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.663 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.685 (4) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.708 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.725 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.744 (4) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.765 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.784 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.801 (4) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.844 (4) 1440322235: this backup set remains non-empty (1/1); will retain in history
+2240.856 (4) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+2240.859 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.880 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.902 (4) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.921 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.949 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.957 (4) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.960 (4) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.970 (4) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.972 (4) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2240.986 (4) 1440322200: this backup set remains non-empty (1/0); will retain in history
+2240.988 (4) Retain: saving new backup history (sets now: 3) and finishing retain operation
+2241.002 (4) Resume backup (8b1f06531d33, 4): finish run
+2241.004 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2241.016 (4) The backup has not finished; a resumption is scheduled
+2868.026 (5) Opened log file at time: Sun, 30 Aug 2015 10:18:41 +0000 on http://www.saltwellharriers.org.uk
+2868.044 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.4M | 21.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2868.170 (5) Free space on disk containing Updraft's temporary directory: 991887.3 Mb / Free disk space in account: 35668.5 Mb (10.8 % used)
+2868.189 (5) Backup run: resumption=5, nonce=8b1f06531d33, begun at=1440927052 (2869s ago), job type=backup, previous check-in=1.2s
+2868.253 (5) Scheduling a resumption (6) after 600 seconds (1440930521) in case this run gets aborted
+2868.304 (5) Checking if we have a zip executable available
+2868.327 (5) Creation of backups of directories: already finished
+2868.354 (5) Saving backup status to database (elements: 8)
+2868.397 (5) Database dump (WordPress DB): Creation was completed already
+2868.400 (5) Saving backup history
+2868.476 (5) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2868.506 (5) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2868.536 (5) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2868.558 (5) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+2868.562 (5) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+2868.595 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+2868.614 (5) Cloud backup selection (1/1): googledrive (last)
+2868.621 (5) Beginning dispatch of backup to remote (googledrive)
+2868.646 (5) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+2868.795 (5) Google Drive: successfully obtained access token
+2868.799 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.808 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.811 (5) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.813 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.814 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.879 (5) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.881 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.925 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.926 (5) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2868.958 (5) An error condition has occurred for the first time during this job
+2868.993 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+2869.011 (5) Number of backup sets in history: 3
+2869.027 (5) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+2869.045 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.063 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.091 (5) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.092 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.122 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.146 (5) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.178 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.193 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.195 (5) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.227 (5) 1440927052: this backup set remains non-empty (1/1); will retain in history
+2869.228 (5) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+2869.230 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.231 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.232 (5) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.233 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.255 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.256 (5) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.258 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.259 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.260 (5) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.301 (5) 1440322235: this backup set remains non-empty (1/1); will retain in history
+2869.313 (5) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+2869.341 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.358 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.377 (5) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.395 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.409 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.425 (5) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.454 (5) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.473 (5) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.483 (5) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+2869.531 (5) 1440322200: this backup set remains non-empty (1/0); will retain in history
+2869.550 (5) Retain: saving new backup history (sets now: 3) and finishing retain operation
+2869.579 (5) Resume backup (8b1f06531d33, 5): finish run
+2869.591 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2869.603 (5) The backup has not finished; a resumption is scheduled
+3532.419 (6) Opened log file at time: Sun, 30 Aug 2015 10:29:45 +0000 on http://www.saltwellharriers.org.uk
+3532.441 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.4M | 21.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+3532.589 (6) Free space on disk containing Updraft's temporary directory: 991889.1 Mb / Free disk space in account: 35668.5 Mb (10.8 % used)
+3532.627 (6) Backup run: resumption=6, nonce=8b1f06531d33, begun at=1440927052 (3533s ago), job type=backup, previous check-in=1.5s
+3532.651 (6) Scheduling a resumption (7) after 600 seconds (1440931185) in case this run gets aborted
+3532.686 (6) Checking if we have a zip executable available
+3532.705 (6) Creation of backups of directories: already finished
+3532.708 (6) Saving backup status to database (elements: 8)
+3532.734 (6) Database dump (WordPress DB): Creation was completed already
+3532.737 (6) Saving backup history
+3532.794 (6) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3532.804 (6) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3532.821 (6) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3532.824 (6) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+3532.845 (6) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+3532.881 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+3532.921 (6) Cloud backup selection (1/1): googledrive (last)
+3532.944 (6) Beginning dispatch of backup to remote (googledrive)
+3532.977 (6) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+3533.147 (6) Google Drive: successfully obtained access token
+3533.166 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.184 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.187 (6) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.191 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.231 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.239 (6) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.242 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.244 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.247 (6) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.295 (6) An error condition has occurred for the first time during this job
+3533.300 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+3533.312 (6) Number of backup sets in history: 3
+3533.314 (6) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+3533.324 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.340 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.360 (6) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.381 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.404 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.440 (6) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.449 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.476 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.497 (6) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.545 (6) 1440927052: this backup set remains non-empty (1/1); will retain in history
+3533.564 (6) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+3533.583 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.600 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.603 (6) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.614 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.622 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.623 (6) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.625 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.638 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.639 (6) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.654 (6) 1440322235: this backup set remains non-empty (1/1); will retain in history
+3533.655 (6) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+3533.656 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.657 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.658 (6) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.659 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.676 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.686 (6) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.702 (6) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.720 (6) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.738 (6) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+3533.782 (6) 1440322200: this backup set remains non-empty (1/0); will retain in history
+3533.800 (6) Retain: saving new backup history (sets now: 3) and finishing retain operation
+3533.845 (6) Resume backup (8b1f06531d33, 6): finish run
+3533.862 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3533.902 (6) The backup has not finished; a resumption is scheduled
+4186.528 (7) Opened log file at time: Sun, 30 Aug 2015 10:40:39 +0000 on http://www.saltwellharriers.org.uk
+4186.531 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.5M | 21.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+4186.659 (7) Free space on disk containing Updraft's temporary directory: 991888.3 Mb / Free disk space in account: 35668.5 Mb (10.8 % used)
+4186.707 (7) Backup run: resumption=7, nonce=8b1f06531d33, begun at=1440927052 (4187s ago), job type=backup, previous check-in=1.3s
+4186.735 (7) Scheduling a resumption (8) after 600 seconds (1440931839) in case this run gets aborted
+4186.764 (7) Checking if we have a zip executable available
+4186.787 (7) Creation of backups of directories: already finished
+4186.789 (7) Saving backup status to database (elements: 8)
+4186.824 (7) Database dump (WordPress DB): Creation was completed already
+4186.828 (7) Saving backup history
+4186.860 (7) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+4186.869 (7) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+4186.891 (7) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+4186.893 (7) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+4186.894 (7) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+4186.912 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+4186.926 (7) Cloud backup selection (1/1): googledrive (last)
+4186.944 (7) Beginning dispatch of backup to remote (googledrive)
+4186.955 (7) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+4187.122 (7) Google Drive: successfully obtained access token
+4187.143 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.146 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.178 (7) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.198 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.230 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.259 (7) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.261 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.272 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.274 (7) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.275 (7) An error condition has occurred for the first time during this job
+4187.308 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+4187.319 (7) Number of backup sets in history: 3
+4187.321 (7) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+4187.322 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.348 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.365 (7) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.384 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.422 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.455 (7) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.457 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.495 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.497 (7) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.562 (7) 1440927052: this backup set remains non-empty (1/1); will retain in history
+4187.579 (7) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+4187.589 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.591 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.606 (7) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.608 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.609 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.610 (7) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.612 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.630 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.632 (7) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.666 (7) 1440322235: this backup set remains non-empty (1/1); will retain in history
+4187.688 (7) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+4187.714 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.735 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.758 (7) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.776 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.795 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.816 (7) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.844 (7) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.864 (7) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.880 (7) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4187.902 (7) 1440322200: this backup set remains non-empty (1/0); will retain in history
+4187.903 (7) Retain: saving new backup history (sets now: 3) and finishing retain operation
+4187.917 (7) Resume backup (8b1f06531d33, 7): finish run
+4187.919 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+4187.941 (7) The backup has not finished; a resumption is scheduled
+4857.178 (8) Opened log file at time: Sun, 30 Aug 2015 10:51:50 +0000 on http://www.saltwellharriers.org.uk
+4857.201 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.5M | 22.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+4857.345 (8) Free space on disk containing Updraft's temporary directory: 991887.8 Mb / Free disk space in account: 35668.5 Mb (10.8 % used)
+4857.379 (8) Backup run: resumption=8, nonce=8b1f06531d33, begun at=1440927052 (4858s ago), job type=backup, previous check-in=1.4s
+4857.408 (8) Time passed on previous resumptions: 0:29.2 1:1.1 2:1.3 3:1.4 4:1.2 5:1.5 6:1.3 7:1.4  (known: 8, max: 29)
+4857.428 (8) Based on the available data, we are bringing the resumption interval down to: 81 seconds
+4857.460 (8) Scheduling a resumption (9) after 81 seconds (1440931991) in case this run gets aborted
+4857.498 (8) Checking if we have a zip executable available
+4857.524 (8) Creation of backups of directories: already finished
+4857.544 (8) Saving backup status to database (elements: 8)
+4857.587 (8) Database dump (WordPress DB): Creation was completed already
+4857.590 (8) Saving backup history
+4857.673 (8) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+4857.679 (8) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+4857.681 (8) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+4857.707 (8) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+4857.709 (8) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+4857.753 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+4857.777 (8) Cloud backup selection (1/1): googledrive (last)
+4857.784 (8) Beginning dispatch of backup to remote (googledrive)
+4857.819 (8) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+4857.966 (8) Google Drive: successfully obtained access token
+4857.987 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4857.990 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4857.992 (8) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.018 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.020 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.022 (8) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.063 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.065 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.092 (8) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.128 (8) An error condition has occurred for the first time during this job
+4858.180 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+4858.204 (8) Number of backup sets in history: 3
+4858.215 (8) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+4858.237 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.264 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.296 (8) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.320 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.331 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.372 (8) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.380 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.388 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.390 (8) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.406 (8) 1440927052: this backup set remains non-empty (1/1); will retain in history
+4858.408 (8) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+4858.410 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.412 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.426 (8) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.428 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.430 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.431 (8) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.433 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.445 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.447 (8) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.481 (8) 1440322235: this backup set remains non-empty (1/1); will retain in history
+4858.501 (8) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+4858.520 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.540 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.564 (8) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.596 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.608 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.636 (8) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.648 (8) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.668 (8) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.705 (8) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+4858.738 (8) 1440322200: this backup set remains non-empty (1/0); will retain in history
+4858.739 (8) Retain: saving new backup history (sets now: 3) and finishing retain operation
+4858.755 (8) Resume backup (8b1f06531d33, 8): finish run
+4858.756 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+4858.770 (8) The backup has not finished; a resumption is scheduled
+5191.403 (9) Opened log file at time: Sun, 30 Aug 2015 10:57:24 +0000 on http://www.saltwellharriers.org.uk
+5191.405 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.7 PHP: 5.4.42 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.42 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.5M | 22M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+5191.590 (9) Free space on disk containing Updraft's temporary directory: 991887.2 Mb / Free disk space in account: 35668.5 Mb (10.8 % used)
+5191.622 (9) Backup run: resumption=9, nonce=8b1f06531d33, begun at=1440927052 (5192s ago), job type=backup, previous check-in=1.5s
+5191.649 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+5191.662 (9) Creation of backups of directories: already finished
+5191.684 (9) Saving backup status to database (elements: 8)
+5191.709 (9) Database dump (WordPress DB): Creation was completed already
+5191.722 (9) Saving backup history
+5191.785 (9) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+5191.808 (9) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+5191.810 (9) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+5191.812 (9) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-others.zip: others: This file has not yet been successfully uploaded: will queue
+5191.813 (9) backup_2015-08-30-0930_Saltwell_Harriers_8b1f06531d33-db.gz: db: This file has not yet been successfully uploaded: will queue
+5191.841 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+5191.861 (9) Cloud backup selection (1/1): googledrive (last)
+5191.864 (9) Beginning dispatch of backup to remote (googledrive)
+5191.894 (9) Google Drive: requesting access token: client_id=250449614090-qoa7b707hceg8oouiti0lbu9uojm0l8l.apps.googleusercontent.com
+5192.056 (9) Google Drive: successfully obtained access token
+5192.087 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.109 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.112 (9) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.115 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.148 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.169 (9) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.171 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.172 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.173 (9) Google Drive upload: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.174 (9) An error condition has occurred for the first time during this job
+5192.191 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+5192.194 (9) Number of backup sets in history: 3
+5192.196 (9) Examining backup set with datestamp: 1440927052 (Aug 30 2015 09:30:52)
+5192.198 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.224 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.227 (9) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.248 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.268 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.280 (9) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.283 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.301 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.303 (9) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.349 (9) 1440927052: this backup set remains non-empty (1/1); will retain in history
+5192.377 (9) Examining backup set with datestamp: 1440322235 (Aug 23 2015 09:30:35)
+5192.401 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.421 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.449 (9) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.460 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.462 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.464 (9) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.466 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.468 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.469 (9) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.487 (9) 1440322235: this backup set remains non-empty (1/1); will retain in history
+5192.489 (9) Examining backup set with datestamp: 1440322200 (Aug 23 2015 09:30:00)
+5192.491 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.505 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.507 (9) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.509 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.530 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.532 (9) Google Drive id_from_path failure: exception (Google_IO_Exception): HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.572 (9) PHP event: code E_WARNING: fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.580 (9) PHP event: code E_WARNING: fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: no suitable wrapper could be found (line 117, wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.606 (9) Google Drive delete: failed to access parent folder: HTTP Error: Unable to connect: '0' (line: 142, file: /home/saltwell/public_html/wp-content/plugins/updraftplus/includes/Google/IO/Stream.php)
+5192.665 (9) 1440322200: this backup set remains non-empty (1/0); will retain in history
+5192.693 (9) Retain: saving new backup history (sets now: 3) and finishing retain operation
+5192.745 (9) Resume backup (8b1f06531d33, 9): finish run
+5192.758 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+5192.779 (9) Fetching RSS news feed
+5192.862 (9) Fetched RSS news feed; result is a: SimplePie
+5192.867 (9) Sending email ('Files and database (Full backup)') report (attachments: 1, size: 127.5 Kb) to: rober...
+5192.951 (9) The backup attempt has finished, apparently unsuccessfully

@@ -1,0 +1,29 @@
+[25-Nov-2014 00:36:38 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:36:38 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/adapter.datamapper_factory.php on line 4
+[25-Nov-2014 00:36:38 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:36:38 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/adapter.datamapper_factory.php:0
+[25-Nov-2014 00:36:44 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:36:44 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/class.custompost_datamapper_driver.php on line 4
+[25-Nov-2014 00:36:44 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:36:44 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/class.custompost_datamapper_driver.php:0
+[25-Nov-2014 00:36:49 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:36:49 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/class.customtable_datamapper_driver.php on line 4
+[25-Nov-2014 00:36:49 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:36:49 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/class.customtable_datamapper_driver.php:0
+[25-Nov-2014 00:36:54 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:36:54 Europe/London] PHP Fatal error:  Class 'E_NggErrorException' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/class.datamapper_driver_base.php on line 7
+[25-Nov-2014 00:36:54 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:36:54 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/class.datamapper_driver_base.php:0
+[25-Nov-2014 00:37:03 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:37:23 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:37:23 Europe/London] PHP Fatal error:  Class 'C_Component' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/class.datamapper_model.php on line 4
+[25-Nov-2014 00:37:23 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:37:23 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/class.datamapper_model.php:0
+[25-Nov-2014 00:37:31 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:37:38 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:37:46 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:37:52 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:37:57 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:37:57 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/module.datamapper.php on line 10
+[25-Nov-2014 00:37:57 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:37:57 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/datamapper/module.datamapper.php:0

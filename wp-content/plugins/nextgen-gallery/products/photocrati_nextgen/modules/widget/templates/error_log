@@ -1,0 +1,18 @@
+[25-Nov-2014 03:10:32 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:10:32 Europe/London] PHP Fatal error:  Class 'C_Component_Registry' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/templates/display_gallery.php on line 2
+[25-Nov-2014 03:10:32 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:10:32 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/templates/display_gallery.php:0
+[25-Nov-2014 03:10:39 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:10:47 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:10:52 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:10:52 Europe/London] PHP Fatal error:  Call to a member function get_field_id() on a non-object in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/templates/form_gallery.php on line 3
+[25-Nov-2014 03:10:52 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:10:52 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/templates/form_gallery.php:0
+[25-Nov-2014 03:10:59 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:11:00 Europe/London] PHP Fatal error:  Call to a member function get_field_id() on a non-object in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/templates/form_mediarss.php on line 2
+[25-Nov-2014 03:11:00 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:11:00 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:0
+[25-Nov-2014 03:11:06 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:11:06 Europe/London] PHP Fatal error:  Call to a member function get_field_id() on a non-object in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/templates/form_slideshow.php on line 2
+[25-Nov-2014 03:11:06 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:11:06 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:0

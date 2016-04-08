@@ -1,0 +1,4 @@
+[25-Nov-2014 02:20:28 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:20:28 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_xmlrpc/module.nextgen_xmlrpc.php on line 9
+[25-Nov-2014 02:20:28 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:20:28 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_xmlrpc/module.nextgen_xmlrpc.php:0

@@ -1,0 +1,44 @@
+[25-Nov-2014 01:52:06 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:52:06 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud.php on line 4
+[25-Nov-2014 01:52:06 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:52:06 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud.php:0
+[25-Nov-2014 01:52:17 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:52:17 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_controller.php on line 4
+[25-Nov-2014 01:52:17 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:52:17 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_controller.php:0
+[25-Nov-2014 01:52:25 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:52:26 Europe/London] PHP Fatal error:  Class 'Mixin_Display_Type_Form' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_form.php on line 4
+[25-Nov-2014 01:52:26 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:52:26 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_form.php:0
+[25-Nov-2014 01:52:38 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:52:38 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_forms.php on line 4
+[25-Nov-2014 01:52:38 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:52:38 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_forms.php:0
+[25-Nov-2014 01:52:47 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:52:47 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_mapper.php on line 4
+[25-Nov-2014 01:52:47 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:52:47 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_mapper.php:0
+[25-Nov-2014 01:52:54 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:52:54 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_routes.php on line 4
+[25-Nov-2014 01:52:54 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:52:54 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_routes.php:0
+[25-Nov-2014 01:53:05 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:53:05 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_urls.php on line 4
+[25-Nov-2014 01:53:05 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:53:05 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/adapter.nextgen_basic_tagcloud_urls.php:0
+[25-Nov-2014 01:53:13 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:53:13 Europe/London] PHP Fatal error:  Class 'C_Gallery_Display_Installer' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/class.nextgen_basic_tagcloud_installer.php on line 4
+[25-Nov-2014 01:53:13 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:53:13 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/class.nextgen_basic_tagcloud_installer.php:0
+[25-Nov-2014 01:53:24 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:53:24 Europe/London] PHP Fatal error:  Class 'C_MVC_Controller' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/class.taxonomy_controller.php on line 4
+[25-Nov-2014 01:53:24 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:53:24 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/class.taxonomy_controller.php:0
+[25-Nov-2014 01:53:34 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:53:34 Europe/London] PHP Fatal error:  Interface 'I_MVC_Controller' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/interface.taxonomy_controller.php on line 4
+[25-Nov-2014 01:53:34 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:53:34 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/interface.taxonomy_controller.php:0
+[25-Nov-2014 01:53:52 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 01:53:52 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/module.nextgen_basic_tagcloud.php on line 13
+[25-Nov-2014 01:53:52 Europe/London] PHP Stack trace:
+[25-Nov-2014 01:53:52 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_tagcloud/module.nextgen_basic_tagcloud.php:0

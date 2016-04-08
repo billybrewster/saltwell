@@ -1,0 +1,13 @@
+[25-May-2014 00:14:04 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-May-2014 00:14:04 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/saltwell/public_html/wp-content/themes/twentyeleven/index.php on line 15
+[25-May-2014 00:14:04 Europe/London] PHP Stack trace:
+[25-May-2014 00:14:04 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/themes/twentyeleven/index.php:0
+[28-May-2014 21:14:40 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[28-May-2014 21:14:40 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/saltwell/public_html/wp-content/themes/twentyeleven/tag.php on line 10
+[28-May-2014 21:14:40 Europe/London] PHP Stack trace:
+[28-May-2014 21:14:40 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/themes/twentyeleven/tag.php:0
+[30-May-2014 17:09:02 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[30-May-2014 17:09:02 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/saltwell/public_html/wp-content/themes/twentyeleven/404.php on line 10
+[30-May-2014 17:09:02 Europe/London] PHP Stack trace:
+[30-May-2014 17:09:02 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/themes/twentyeleven/404.php:0
+[22-Jul-2015 07:42:09 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/saltwell/public_html/wp-content/themes/twentyeleven/404.php on line 10

@@ -1,0 +1,4 @@
+[25-Nov-2014 03:05:08 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 03:05:08 Europe/London] PHP Fatal error:  Using $this when not in object context in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/templates/thumbnails/index.php on line 3
+[25-Nov-2014 03:05:08 Europe/London] PHP Stack trace:
+[25-Nov-2014 03:05:08 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/templates/thumbnails/index.php:0

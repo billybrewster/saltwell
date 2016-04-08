@@ -1,0 +1,92 @@
+.mtw_container{
+	background: #C4DEEB;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.mtw_head{
+	padding: 10px;
+}
+.mtw_avatar{
+	float: left;
+}
+.mtw_avatar img{
+	width: 35px;
+	height: 35px;
+	margin-right: 10px;
+}
+
+.mtw_twitter_username {
+	margin-top: -3px;
+	float: left;
+}
+
+.mtw_twitter_username p ,.mtw_twitter_username h3{
+	margin: 0 !important;
+}
+.mtw_twitter_username p a,.mtw_twitter_username h3 a{
+	font-family: 'arial' !important;
+	color: #292929 !important;
+	text-decoration: none !important; 
+}
+.mtw_twitter_username p{
+	font-size: 12px !important;
+}
+.mtw_twitter_username h3{
+	font-size: 16px;
+}
+
+.mtw_tweets{
+	background: #EAF6FD;
+	margin-left: 1px;
+	margin-right: 1px;
+	height: 300px;
+	overflow-y: scroll;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+.mtw_tweets li{
+	list-style: none;
+	padding: 7px;
+	border-bottom: 1px dotted #ddd;
+}
+
+.mtw_tweets li p{
+	font-size: 12px !important;
+	margin: 0 !important;
+	color: #81667D !important;
+	line-height: 1.5 !important;
+}
+.mtw_tweets li p a{
+	color: #497DB5 !important;
+}
+.mtw_tweets li p.tweet_meta{
+	font-size: 10px !important;
+}
+	
+.mtw_tweets li a{
+	text-decoration: none;
+	color: #497DB5;
+}
+.mtw_footer{
+	padding: 10px;
+}
+
+.mtw_footer .twitter_widget_footer_logo{
+	float: left;
+}
+
+.mtw_footer .twitter_widget_footer_link{
+	float: right;
+}
+
+.mtw_footer .twitter_widget_footer_link a{
+	color: #3D2C3D !important;
+	font-size: 11px !important;
+	text-decoration: none;
+	
+}.designedby {    width: 100%;	text-align: center;	color: #f6f6f6;	font-size: 80%;	padding: 10px 0;	text-decoration: none;	}	
+
+.designedby a {    color: #FFF;	text-decoration: none;	}	
+
+.designedby a:hover {    color: #f6f6f6;	text-decoration: none;	}		

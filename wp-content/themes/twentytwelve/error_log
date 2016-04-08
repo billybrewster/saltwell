@@ -1,0 +1,5 @@
+[31-May-2014 08:48:03 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[31-May-2014 08:48:03 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/saltwell/public_html/wp-content/themes/twentytwelve/404.php on line 10
+[31-May-2014 08:48:03 Europe/London] PHP Stack trace:
+[31-May-2014 08:48:03 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/themes/twentytwelve/404.php:0
+[22-Jul-2015 07:42:09 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/saltwell/public_html/wp-content/themes/twentytwelve/404.php on line 10

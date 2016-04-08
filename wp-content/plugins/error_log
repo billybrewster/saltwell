@@ -1,0 +1,16 @@
+[12-May-2014 10:29:57 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[12-May-2014 10:29:57 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[12-May-2014 10:29:57 Europe/London] PHP Stack trace:
+[12-May-2014 10:29:57 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/hello.php:0
+[04-May-2015 09:21:20 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[12-May-2015 19:28:08 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[13-May-2015 15:40:55 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[21-May-2015 15:57:18 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[23-Jun-2015 02:51:56 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[28-Jun-2015 12:54:53 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[27-Jul-2015 23:12:31 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[24-Aug-2015 19:54:50 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[02-Jan-2016 05:31:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[20-Feb-2016 13:25:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[14-Mar-2016 01:11:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60
+[14-Mar-2016 01:12:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/saltwell/public_html/wp-content/plugins/hello.php on line 60

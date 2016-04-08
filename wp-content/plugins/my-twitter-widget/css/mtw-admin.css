@@ -1,0 +1,12 @@
+.mtw_single_field{
+	clear: both;
+}
+.mtw_single_field p{
+	float: left;
+	width: 20%;
+}
+
+.mtw_single_field input[type="text"]{
+	width: 100%;
+	padding: 5px;
+}

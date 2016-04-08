@@ -1,0 +1,16 @@
+[25-Nov-2014 02:57:14 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:57:14 Europe/London] PHP Fatal error:  Using $this when not in object context in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_album/templates/compact.php on line 1
+[25-Nov-2014 02:57:14 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:57:14 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_album/templates/compact.php:0
+[25-Nov-2014 02:57:25 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:57:25 Europe/London] PHP Fatal error:  Using $this when not in object context in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_album/templates/extended.php on line 1
+[25-Nov-2014 02:57:25 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:57:25 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_album/templates/extended.php:0
+[25-Nov-2014 02:57:58 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:57:58 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_album/templates/nextgen_basic_album_galleries_per_page.php on line 4
+[25-Nov-2014 02:57:58 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:57:58 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_album/templates/nextgen_basic_album_galleries_per_page.php:0
+[25-Nov-2014 02:58:04 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:58:05 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_album/templates/nextgen_basic_album_gallery_display_type.php on line 3
+[25-Nov-2014 02:58:05 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:58:05 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_album/templates/nextgen_basic_album_gallery_display_type.php:0

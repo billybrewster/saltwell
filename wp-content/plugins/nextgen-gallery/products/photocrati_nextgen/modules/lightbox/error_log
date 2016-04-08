@@ -1,0 +1,26 @@
+[24-Nov-2014 22:21:21 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Nov-2014 22:21:21 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/adapter.lightbox_factory.php on line 4
+[24-Nov-2014 22:21:21 Europe/London] PHP Stack trace:
+[24-Nov-2014 22:21:21 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/adapter.lightbox_factory.php:0
+[24-Nov-2014 22:21:25 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Nov-2014 22:21:25 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/adapter.lightbox_library_form.php on line 4
+[24-Nov-2014 22:21:25 Europe/London] PHP Stack trace:
+[24-Nov-2014 22:21:25 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/adapter.lightbox_library_form.php:0
+[24-Nov-2014 22:21:33 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Nov-2014 22:21:40 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Nov-2014 22:21:40 Europe/London] PHP Fatal error:  Class 'C_DataMapper_Model' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/class.lightbox_library.php on line 13
+[24-Nov-2014 22:21:40 Europe/London] PHP Stack trace:
+[24-Nov-2014 22:21:40 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/class.lightbox_library.php:0
+[24-Nov-2014 22:21:50 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Nov-2014 22:21:50 Europe/London] PHP Fatal error:  Class 'C_CustomPost_DataMapper_Driver' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/class.lightbox_library_mapper.php on line 7
+[24-Nov-2014 22:21:50 Europe/London] PHP Stack trace:
+[24-Nov-2014 22:21:50 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/class.lightbox_library_mapper.php:0
+[24-Nov-2014 22:21:54 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Nov-2014 22:21:54 Europe/London] PHP Fatal error:  Interface 'I_DataMapper_Model' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/interface.lightbox_library.php on line 4
+[24-Nov-2014 22:21:54 Europe/London] PHP Stack trace:
+[24-Nov-2014 22:21:54 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/interface.lightbox_library.php:0
+[24-Nov-2014 22:21:58 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Nov-2014 22:22:03 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Nov-2014 22:22:03 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/module.lightbox.php on line 14
+[24-Nov-2014 22:22:03 Europe/London] PHP Stack trace:
+[24-Nov-2014 22:22:03 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/module.lightbox.php:0

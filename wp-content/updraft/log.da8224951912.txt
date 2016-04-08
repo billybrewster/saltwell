@@ -1,0 +1,12 @@
+0369.327 (1) Opened log file at time: Sun, 29 Nov 2015 09:41:00 +0000 on http://www.saltwellharriers.org.uk
+0369.334 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.8 PHP: 5.5.30 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.46 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28.3M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0369.445 (1) Free space on disk containing Updraft's temporary directory: 784592.2 Mb / Free disk space in account: 36634.1 Mb (8.4 % used)
+0369.470 (1) It looks like WordPress's scheduler has started multiple instances of this resumption
+0369.478 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1448790060.3, time_now=1448790060.8, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+0369.480 (1) Rescheduling resumption 2: moving to 300 seconds from now (1448790360)
+0369.497 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 0 = 300
+0916.473 (2) Opened log file at time: Sun, 29 Nov 2015 09:50:07 +0000 on http://www.saltwellharriers.org.uk
+0916.488 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.3 WP: 4.1.8 PHP: 5.5.30 (Linux server40.bigwetfish.co.uk 2.6.32-573.3.1.el6.x86_64 #1 SMP Thu Aug 13 22:55:16 UTC 2015 x86_64) MySQL: 5.5.46 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.7M | 22M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0916.595 (2) Free space on disk containing Updraft's temporary directory: 784326.8 Mb / Free disk space in account: 36634.1 Mb (8.4 % used)
+0916.621 (2) Backup run: resumption=2, nonce=da8224951912, begun at=1448789691 (917s ago), job type=backup, previous check-in=0.1s
+0916.623 (2) Terminate: This backup job is already finished (1).

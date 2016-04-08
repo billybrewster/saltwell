@@ -1,0 +1,42 @@
+[25-Nov-2014 00:52:03 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:52:03 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/adapter.fs_access_page.php on line 5
+[25-Nov-2014 00:52:03 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:52:03 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/adapter.fs_access_page.php:0
+[25-Nov-2014 00:52:09 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:52:09 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/adapter.mvc_validation.php on line 6
+[25-Nov-2014 00:52:09 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:52:09 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/adapter.mvc_validation.php:0
+[25-Nov-2014 00:52:16 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:52:16 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/adapter.nextgen_admin_default_pages.php on line 4
+[25-Nov-2014 00:52:16 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:52:16 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/adapter.nextgen_admin_default_pages.php:0
+[25-Nov-2014 00:52:24 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:52:24 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/adapter.nextgen_settings_routes.php on line 4
+[25-Nov-2014 00:52:24 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:52:24 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/adapter.nextgen_settings_routes.php:0
+[25-Nov-2014 00:52:32 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:52:32 Europe/London] PHP Fatal error:  Class 'C_MVC_Controller' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/class.form.php on line 4
+[25-Nov-2014 00:52:32 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:52:32 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/class.form.php:0
+[25-Nov-2014 00:52:37 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:52:37 Europe/London] PHP Fatal error:  Class 'C_Component' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/class.form_manager.php on line 4
+[25-Nov-2014 00:52:37 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:52:37 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/class.form_manager.php:0
+[25-Nov-2014 00:52:41 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:52:53 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:53:25 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:53:25 Europe/London] PHP Fatal error:  Class 'C_MVC_Controller' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/class.nextgen_admin_page_controller.php on line 4
+[25-Nov-2014 00:53:25 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:53:25 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/class.nextgen_admin_page_controller.php:0
+[25-Nov-2014 00:53:32 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:53:32 Europe/London] PHP Fatal error:  Class 'C_Component' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/class.page_manager.php on line 4
+[25-Nov-2014 00:53:32 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:53:32 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/class.page_manager.php:0
+[25-Nov-2014 00:53:41 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:53:46 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:53:53 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:54:00 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:54:05 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 00:54:05 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/module.nextgen_admin.php on line 12
+[25-Nov-2014 00:54:05 Europe/London] PHP Stack trace:
+[25-Nov-2014 00:54:05 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/module.nextgen_admin.php:0

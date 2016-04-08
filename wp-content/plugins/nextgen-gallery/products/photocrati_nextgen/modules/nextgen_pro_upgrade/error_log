@@ -1,0 +1,12 @@
+[25-Nov-2014 02:19:12 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:19:12 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pro_upgrade/adapter.nextgen_pro_upgrade_controller.php on line 4
+[25-Nov-2014 02:19:12 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:19:12 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pro_upgrade/adapter.nextgen_pro_upgrade_controller.php:0
+[25-Nov-2014 02:19:21 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:19:21 Europe/London] PHP Fatal error:  Class 'Mixin' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pro_upgrade/adapter.nextgen_pro_upgrade_page.php on line 4
+[25-Nov-2014 02:19:21 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:19:21 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pro_upgrade/adapter.nextgen_pro_upgrade_page.php:0
+[25-Nov-2014 02:19:42 Europe/London] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[25-Nov-2014 02:19:42 Europe/London] PHP Fatal error:  Class 'C_Base_Module' not found in /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pro_upgrade/module.nextgen_pro_upgrade.php on line 10
+[25-Nov-2014 02:19:42 Europe/London] PHP Stack trace:
+[25-Nov-2014 02:19:42 Europe/London] PHP   1. {main}() /home/saltwell/public_html/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pro_upgrade/module.nextgen_pro_upgrade.php:0
